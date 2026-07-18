@@ -4,8 +4,11 @@
   "concepts": [
     "Bit",
     "Byte",
+    "Kilobit",
     "Kilobyte",
+    "Megabit",
     "Megabyte",
+    "Gigabit",
     "Gigabyte",
     "Terabyte",
     "Petabyte",
